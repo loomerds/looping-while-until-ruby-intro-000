@@ -6,4 +6,3 @@ def using_until
     force += 1
   end
 end
-
